@@ -36,8 +36,8 @@ This tool sends multiple requests from addresses and IP addresses to different d
 ```
 1- pkg install git
 2- git clone https://github.com/mr-sami-x/YE_Flood.git
-3- pkg install pyfiglet
-- pkg install lib-platform
+3- pip install pyfiglet
+- pip install lib-platform
 ```
 <h2>operating commands  Termux:<img src="https://files.catbox.moe/imzrqy.png" alt="Linux Icon" width="30" height="30" style="padding: 20px;"> </h2>  
 
